@@ -1,0 +1,6 @@
+*.jpeg
+DATA*/
+CLEANED/*
+CLEANING_T001FR/*
+ESDSEQ_DATA_TEST/*
+output_video.mp4
