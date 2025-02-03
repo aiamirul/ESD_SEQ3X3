@@ -6,3 +6,4 @@ ESDSEQ_DATA_TEST/*
 output_video.mp4
 *.jpg
 TRAINING_DATA/val.cache
+*.pt
